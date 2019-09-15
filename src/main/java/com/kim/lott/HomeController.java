@@ -63,10 +63,4 @@ public class HomeController {
 		return result;
 	}
 	
-	
-	@GetMapping("/chat")
-	public String chat() {
-		return "chat";
-	}
-	
 }

@@ -73,8 +73,7 @@
 
 <h3 align="center">아래 형식을 작성하세요.</h3>
 <p align="center">(로또 생성을 기본값 (5개 구입)으로 셋팅되어있습니다.)</p>
-<%-- <p><a href="<%= request.getContextPath() %>/chat" target="_blank">채팅하기</a> --%>
-<p><a href="<%= request.getContextPath() %>/chat">채팅하기</a>
+<p align="center"><a href="http://121.143.40.8:8080/chat/" target="_blank">채팅하기</a>
 <div align="center">
 <table class="table table-bordered" style="text-align: center; width: 50%">
 	<tr>
